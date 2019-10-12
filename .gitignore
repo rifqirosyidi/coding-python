@@ -1,5 +1,2 @@
-t*.pyc
-__pycache__/
-
 venv/
-.idea/
+__pycache__/
