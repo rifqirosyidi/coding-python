@@ -1,10 +1,12 @@
 rand_string = "    this is an important string   "
-rand_string = rand_string.strip()
+l_string = rand_string.lstrip()
+r_string = rand_string.rstrip()
+rand_string = rand_string.strip()  # remove white space
 
-print(rand_string.capitalize())
+print(rand_string.capitalize())  # Capitalize first char
 
 a_list = ['bunch', 'of', 'random', 'string']
-print(" ".join(a_list))
+print(" ".join(a_list)) # join a list as a string
 
 split_rand_string = rand_string.split(" ")
 for i in split_rand_string:
