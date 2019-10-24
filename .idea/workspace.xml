@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78959e0c-a92a-4f9b-b10e-8b159e008546" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/06 Dictionary &amp; Recursive Func/dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Dictionary &amp; Recursive Func/dict_problems.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Dictionary &amp; Recursive Func/dict_solve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06 Dictionary &amp; Recursive Func/recursive_func.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +37,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dict">
+  <component name="RunManager" selected="Python.solve">
     <configuration name="dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learn-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -70,27 +72,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03 String/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main_fun" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learn-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05 List" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05 List/main_fun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,6 +143,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="solve" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learn-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06 Dictionary &amp; Recursive Func" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06 Dictionary &amp; Recursive Func/dict_solve.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
       <option name="SCRIPT_PATH" value="" />
       <option name="SCRIPT_OPTIONS" value="" />
@@ -171,20 +173,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
-      <item itemvalue="Shell Script.Unnamed" />
-      <item itemvalue="Python.main_fun" />
       <item itemvalue="Python.main_list_comprehension" />
       <item itemvalue="Python.main_multi_list" />
       <item itemvalue="Python.problems_generate_table" />
       <item itemvalue="Python.dict" />
+      <item itemvalue="Shell Script.Unnamed" />
+      <item itemvalue="Python.solve" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solve" />
         <item itemvalue="Python.dict" />
         <item itemvalue="Python.problems_generate_table" />
         <item itemvalue="Python.main_multi_list" />
         <item itemvalue="Python.main_list_comprehension" />
-        <item itemvalue="Python.main_fun" />
       </list>
     </recent_temporary>
   </component>
