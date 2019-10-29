@@ -22,7 +22,7 @@ class Cat:
 
 def main():
     kats = Cat("kats", 20, 40)
-
+    kats.run()
 
 main()
 
